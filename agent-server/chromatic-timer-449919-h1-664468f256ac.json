@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chromatic-timer-449919-h1",
+  "private_key_id": "664468f256ac3a808b2c54706ae561d8ad815d1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCX6KajOqw8bSe3\nqadls2YWnWaMFF61XF9KRbpsthOX3QsEdfQrzExRuOVe6jCRhWL4QYtmm+oRX3wF\noYSz7JokW6fx4/2nQJvuAHhl3PMcYZ0sP8OPPdhY9+9FGNtApBR3Bhw0ejFFu4It\nqWsrU0DJIW9ezWhbSgPPs7jJ2sqrjZyw9t+PG9UGv8xlafqgbEY2K7BvYWJnejdH\n9lZUQ/f4iJcEZrLmyjEwvjj0uqhlPY2vBYElb0rNL09Rlf1ok6ieB2TIVGQpoIrL\nZGXkqIjVbQRVmKdclb3sSJQf6qmh1lRGRhZz9bUMo7onqXd7n7A9FFThKXgGI4M5\n0wtzRt89AgMBAAECggEAAdNKWVDFrA41uXfA6rBurBvlFQ7TmoNLI9XVqSPA9YSy\n8rFGJ1aTnjHGE89lmQIMz+XdunRqKh5HG7w2n4Da01AEoxv1utJEbWY1DChNBYzI\nujTj8S8xj9Qe3GoxjEPMeSeqJBlJyUg5Brpv7rvX3fLYZz+5nsszY4YJ1Ocbo1cS\nCHsUiRuXXPc3m29AmAjDA0a65S0NfcuKFKUzBiurKd+LcXvEDsaVR+l7U2U3NFch\n0lOepi28X6nuHhiuguNEp3zh11NO71/WnfTfbEt07AmHaK8wRqjWuik69M31PUTg\nFZ01dg2V3tPXhHlag3oekwCUPtezp3qShLL6sN28sQKBgQDS0BXIKm6oLT8+2EQp\np0BR/qX3IfTNIxcMgBQP71wLol/oupGRacHYfGs7LpfAI0VGdKPYuHi6N2z93Wpg\nx+xmQ0P7JvwejBnZVi99xfxKsdInQHXR6LRusnWt4puxT+LQItBCOSOTE5BLjJHY\nUfWeFBKENs9Ud6HuD2jH5Xf+SQKBgQC4eFRTomZ62aN5rBNwqBx/Vqap5EclAG+P\nftAD9S205Z0ebn+fHjnnFzm4aNM6+OFOt+GVova11ta062CQk7jMwVBj37YinCMP\nJbpkFUjcSsr+K9wkVXKoIpgvNV81r7MJGXM0NKESEoaPf6o8jmVMzCWn5LiTU0Sh\nl84ZWAfpVQKBgGL+cewP+OyiaruhJMkGkA6w7NCTMniODMnC7yjYdrnD4xPPYIIP\nTobRTi15YKtKJMLEDRi873xKgLTpn4WY/Cq9VZP/p47UrWLAtQZzzVhqDkx+WZVb\nmDcPOHGSIxhtcg3Y+0DNwiXTnwPLG8WgHx2/QT6y2kNI9lJrDAIqgGF5AoGAcAQB\nkNeoyyilcBjhpSMwStLfWYLZAMsG82faAM08+AAGLJiEvqaoGn+r+SMOQV0n05kt\nTqQqk7jln+7eMGzDZvJsUnliLBoL4ALU8DlMiRiRs04G27lXamm3Z9NNAVizqu7d\nWfIrbMH7G+A2C5ecQ8ojg5QL0MpbfpSj/hfKlhECgYEAn4pNKD7cQ3k13cRjh0LH\nBTVJOslF/TKQjFZGFh2DenEX8w0UDtwCD1vvcR+W2vbCsQbn2bEzPKORJx4OOUKE\nnHuybdqvuO9WYuKbnmNVbaOLoVMPL2o8E3A9RjJVgL6zAmXz6XMb/OdgT4hRBJS7\neR4mNh538QO2QOfG0pdeOS8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service-acc@chromatic-timer-449919-h1.iam.gserviceaccount.com",
+  "client_id": "117801559893377090875",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service-acc%40chromatic-timer-449919-h1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

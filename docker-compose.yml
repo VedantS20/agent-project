@@ -1,0 +1,22 @@
+version: '1.0.0'
+services:
+  agent_server:
+    build: 
+      context: ./agent-server
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./server:/agent_server
+    environment:
+      - PORT=8000
+
+  app:
+    build:
+      context: ./furniture-store
+      target: prod
+      args:
+        - VITE_BACKEND_URL="http://localhost:8000"
+    container_name: app
+    
+    
