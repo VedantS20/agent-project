@@ -8,7 +8,7 @@ ENV PATH /usr/src/node_modules/.bin:$PATH
 
 ARG VITE_BACKEND_URL
 # expose the variable to the finished cotainer
-ENV VITE_BACKEND_URL=$VITE_BACKEND_URL
+ENV VITE_BACKEND_URL="http://34.55.184.176:8000"
 
 COPY package.json ./
 

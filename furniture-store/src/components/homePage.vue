@@ -1,7 +1,7 @@
 <template>
   <div class="card-container">
     <v-row class="mb-6" no-gutters>
-      <v-col :cols="4" v-for="product in products" :key="product._id">
+      <v-col :cols="3" v-for="product in products" :key="product._id">
         <ItemCardVue
           class="ma-2"
           :name="product.name"
